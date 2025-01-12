@@ -1,4 +1,4 @@
-# Recommended List<br> 
+# Recommended List
 
 
 | Model                                  |  Type                                  |  Price       | Can Do                                                                                                                                                                            | Can't Do                                                                                            |  Notes                                                                                                                                                                                                                                |
